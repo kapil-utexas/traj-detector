@@ -1,0 +1,10 @@
+#ignore jpegs 
+*.[jJ][pP][gG]
+#ignore video files
+*.wmv
+*.avi
+*.mp4
+#ignore python runtime files
+*.pyc
+
+
